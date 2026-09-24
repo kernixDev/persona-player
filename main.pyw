@@ -31,8 +31,7 @@ async def geticon():
     url = "https://api.imgbb.com/1/upload"
     params = {
     "expiration": 600,
-    "key": "5c072c220f200a115881fe68a52320db",
-
+    "key": "",
     }
 
     form = aiohttp.FormData()
