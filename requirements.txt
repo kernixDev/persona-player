@@ -1,0 +1,6 @@
+pygame
+pygame_gui
+mutagen
+Pillow
+pypresence
+aiohttp
